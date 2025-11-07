@@ -6,3 +6,4 @@ Live site: https://www.petmeds.dog
 How to update:
 - Edit HTML files (index.html, flea-tick.html, etc.)
 - Commit to main; GitHub Pages redeploys automatically.
+ 
